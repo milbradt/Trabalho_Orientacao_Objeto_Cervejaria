@@ -70,7 +70,7 @@ class Cerveja extends Banco {
 
     public function incluir()
     {
-        return $this->setLivro($this->getMarca(), $this->getTipo(), $this->getMedida(), $this->getQuantidade(), $this->getPreco(), $this->getData());
+        return $this->setCerveja($this->getMarca(), $this->getTipo(), $this->getMedida(), $this->getQuantidade(), $this->getPreco(), $this->getData());
     }
 }
 

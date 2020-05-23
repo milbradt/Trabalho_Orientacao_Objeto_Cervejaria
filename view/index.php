@@ -19,7 +19,7 @@
             </tr>
         </thead>
         <tbody>
-            <?php new listarController();  ?>
+            <?php //new listarController();  ?>
 
         </tbody>
     </table>
