@@ -1,7 +1,6 @@
 <?php
-    // conexão com o banco de dados
     define('BD_SERVIDOR','localhost');
-    define('BD_USUARIO','root');
-    define('BD_SENHA','');
+    define('BD_USUARIO','ceva');
+    define('BD_SENHA','dbCeva2020');
     define('BD_BANCO','cervejaria');
 ?>

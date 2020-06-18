@@ -1,7 +1,7 @@
 <?php
 require_once("Banco.php");
 
-class Usuario extends Banco {
+class Mesa extends Banco {
 
     private $id;
     private $ocupado;
